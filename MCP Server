@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "bittensor": {
+      "command": "npx",
+      "args": ["-y", "@bitmind/bittensor-mcp"],
+      "env": {
+        "BITMIND_API_TOKEN": "<oracle-561b4680-d05e-4b32-9aa8-a158eabd403b:5f78b86e>"
+      }
+    }
+  }
+}
